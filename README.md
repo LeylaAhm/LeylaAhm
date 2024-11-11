@@ -4,7 +4,7 @@
 
 ✨ In my free time, I:
 
- 💻 Work on personal coding projects  
- ✈️  Travel to new destinations   
- 🐎 Horseback ride   
- 📚 Read about emerging technology trends 
+- 💻  Work on personal coding projects  
+- ✈️   Travel to new destinations   
+- 🐎  Horseback ride   
+- 📚  Read about emerging technology trends 
