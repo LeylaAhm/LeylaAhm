@@ -1,4 +1,4 @@
-![MasterHead](https://www.keenesystems.com/hs-fs/hubfs/software-testing.jpg?width=900&name=software-testing.jpg)]
+![MasterHead](https://www.keenesystems.com/hs-fs/hubfs/software-testing.jpg?width=900&name=software-testing.jpg)
 
 ## 👋 Hi, I'm Leila! 
 
