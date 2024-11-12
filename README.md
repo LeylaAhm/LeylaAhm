@@ -1,6 +1,8 @@
 ![MasterHead](https://www.keenesystems.com/hs-fs/hubfs/software-testing.jpg?width=900&name=software-testing.jpg)
 
 ## 👋 Hi, I'm Leila! 
+<p align="left"><img src="https://https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif/> </a> </p>
+
 
 👩‍💻 I'm passionate about test automation, enhancing software quality, and exploring new tools to improve testing processes. I enjoy staying up-to-date with the latest developments in the tech industry and continuously refining my skills.
 
